@@ -8,7 +8,7 @@ We've built the Volareo Smart Speaker with open source as a starting point. This
 
 ## Great Volareo partnerships
 
-We are partnering with amazing partners who will bring extra functionality and use-cases to the Volareo Smart Speaker. Please find the list below
+We are partnering with amazing partners who will bring extra functionality and use-cases to the Volareo Smart Speaker. Please find the list below. This list will extend over time, so please keep an eye out on our repository for new partnership announcements, which could bring exciting new features to the Volareo Smart Speaker!
 
 ### [Musicoin](https://musicoin.org/)
 
